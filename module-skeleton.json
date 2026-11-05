@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-preventative-maintenance-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-preventative-maintenance",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_preventative_maintenance_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/preventative-maintenance.md",
+  "presentationPlan": "projects/maintenance/flutter/preventative-maintenance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
